@@ -1,2 +1,2 @@
 TinDog Starting Files
-This is live at: https://topratelucky.github.io/TinDog/
+To see this live: https://topratelucky.github.io/TinDog/
